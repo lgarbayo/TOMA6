@@ -1,6 +1,6 @@
 # TOMA6
 
-Este repositorio contiene recursos y documentos relacionados con el proyecto **TOMA6**. El objetivo principal del proyecto es [describir brevemente el propósito del proyecto si está disponible].
+Este repositorio contiene recursos y documentos relacionados con el proyecto **TOMA6** de la asignatura Algoritmos y Estructura de Datos I. El objetivo principal del proyecto es la creación y simulación del juego de cartas "TOMA 6" en lenguaje java.
 
 ## Estructura del Repositorio
 
