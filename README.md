@@ -4,11 +4,11 @@ Este repositorio contiene recursos y documentos relacionados con el proyecto **T
 
 ## Estructura del Repositorio
 
-- **Carpeta Principal:**  
-  Contiene [breve descripción de los archivos o subcarpetas más relevantes en la raíz del repositorio].
+- **core**
+  Contiene la lógica del proyecto dividida en las clases necesarias para su implementación.
 
-- **Documentos:**  
-  Archivos que detallan los procesos, especificaciones técnicas y requisitos del proyecto.
+- **iu**  
+  Contiene la lógica de la UI.
 
 ## Uso del Repositorio
 
@@ -24,26 +24,8 @@ Este repositorio contiene recursos y documentos relacionados con el proyecto **T
 
 3. Revisa los archivos según sea necesario para obtener la información del proyecto.
 
-## Contribuciones
 
-Si deseas contribuir:
 
-1. Realiza un fork del repositorio.
-2. Crea una rama para tu contribución:
-   ```bash
-   git checkout -b mejora-proyecto
-   ```
-3. Realiza los cambios y súbelos:
-   ```bash
-   git add .
-   git commit -m "Descripción de los cambios"
-   git push origin mejora-proyecto
-   ```
-4. Crea un Pull Request detallando tus modificaciones.
-
-## Licencia
-
-Este repositorio está protegido por derechos de autor. Consulta los archivos de licencia (si están disponibles) para obtener más detalles sobre las condiciones de uso.
 
 ## Contacto
 
